@@ -1,4 +1,4 @@
-<h1><p align="center"> Hi there 👋, they know me as SERBARALE 💻
+<h1><p align="center"> Hi there 👋, they know me as SERBARALE 💻 <\h1>
 <p align="center"> "And when the void came, you met the REDACTED one" 
 
 - 📖 I'm currently studying
