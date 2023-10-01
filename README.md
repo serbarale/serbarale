@@ -1,6 +1,8 @@
-### Hi there 👋
+# Hi there 👋, they know me as SERBARALE 💻
+
+- 📖 I'm currently studying
 - 🌱 I’m currently learning C++, Javascript, CSS, C#
-- 
+
 <!--
 **serbarale/serbarale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
