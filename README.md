@@ -3,13 +3,3 @@
 
 - 📖 I'm currently studying
 - 🌱 I’m currently learning C++, Javascript, CSS, C#
-
----
-
-```
-{
-  "firstName": "Sebastian",
-  "lastName": "Barrantes",
-  "pronouns": "he | him"
-}
-```
